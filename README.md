@@ -3,6 +3,10 @@
 
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_day_5/blob/main/app.js">Visualiza mi repositorio</a>
 
+
+________________________________________
+#7daysofcode #dia5
+
 RETO:
 
 ¿Sabes cuando vas al supermercado con una lista de compras y terminas yendo y volviendo por los mismos pasillos hasta completar la lista?
